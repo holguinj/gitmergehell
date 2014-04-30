@@ -1,3 +1,5 @@
 This text has been around for a while and it may have some typos, but it's
 probably not something that people are going to be revising on a regular
 basis.
+
+This is a new line added in the master branch.
